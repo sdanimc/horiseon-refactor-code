@@ -16,7 +16,7 @@ This webpage need to be brought up to accessibility standards so that it is easi
 <img src="./assets/images/Screenshot (11).png">
 
 ### Deployed Page
-Published link: 
+Published link: https://sdanimc.github.io/horiseon-refactor-code/
 
 ### Credits
 * Horiseon webpage create by UCI Bootcamp
