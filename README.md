@@ -13,7 +13,7 @@ This webpage need to be brought up to accessibility standards so that it is easi
 * Nav bar re-styled to match mock-up
 
 ### Usage
-<img src="./Develop/assets/images/Screenshot (11).png">
+<img src="./assets/images/Screenshot (11).png">
 
 ### Deployed Page
 Published link: 
